@@ -1,0 +1,18 @@
+body{
+    overflow: hidden;
+}
+.X{
+    background-image: url("nadege.jpg") ;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+.O{
+
+    background-image: url("tomy-spagnoletti-duval-og.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.col-4{
+    cursor: pointer;
+}
